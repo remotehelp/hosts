@@ -24,7 +24,6 @@
 # Сайт проекта: http://remoteshaman.com/
 # Свежая версия файла hosts: https://github.com/remotehelp/hosts
 # E-Mail для связи: remoteshaman.com@gmail.com
-# /!\ - Если сайт занесен в этот файл по ошибке, пожалуйста сообщите нам - /!\
 # ----------------------------------------------------------------------
 # 192.168.0.0 ad.somesite.com
 # 192.168.0.0 some.other.banner.net
@@ -18235,7 +18234,6 @@
 192.168.0.0    episodic.com
 192.168.0.0    e-place.ru
 192.168.0.0    eplanit.biz
-192.168.0.0    e-planning.net
 192.168.0.0    eplreplays.com
 192.168.0.0    e-plus.cc
 192.168.0.0    epoquels.com
@@ -26975,7 +26973,6 @@
 192.168.0.0    messenger-2009.com
 192.168.0.0    messycomic.com
 192.168.0.0    mesvip.com
-192.168.0.0    meta.ua
 192.168.0.0    meta4-group.com
 192.168.0.0    metaad.econet.hu
 192.168.0.0    meta-adult.com
@@ -59463,7 +59460,6 @@
 192.168.0.0    www.episodic.com
 192.168.0.0    www.e-place.ru
 192.168.0.0    www.eplanit.biz
-192.168.0.0    www.e-planning.net
 192.168.0.0    www.eplreplays.com
 192.168.0.0    www.e-plus.cc
 192.168.0.0    www.epoquels.com
@@ -67935,7 +67931,6 @@
 192.168.0.0    www.messenger-2009.com
 192.168.0.0    www.messycomic.com
 192.168.0.0    www.mesvip.com
-192.168.0.0    www.meta.ua
 192.168.0.0    www.meta4-group.com
 192.168.0.0    www.metaad.econet.hu
 192.168.0.0    www.metaboli.fr
@@ -84609,3 +84604,29 @@
 192.168.0.0    www.ads.dfiles.ru
 192.168.0.0    d.adroll.com
 192.168.0.0    www.d.adroll.com
+
+192.168.0.0    ua.adriver.ru
+192.168.0.0    www.ua.adriver.ru
+
+192.168.0.0    trafmag.com
+192.168.0.0    www.trafmag.com
+192.168.0.0    cs07.trafmag.com
+192.168.0.0    www.cs07.trafmag.com
+
+192.168.0.0    c.novostimira.biz
+192.168.0.0    www.c.novostimira.biz
+
+192.168.0.0    advmarket.net
+192.168.0.0    www.advmarket.net
+
+192.168.0.0    am15.net
+192.168.0.0    www.am15.net
+
+192.168.0.0    w42.am15.net
+192.168.0.0    www.w42.am15.net
+
+192.168.0.0    assets1.admulti.com
+192.168.0.0    www.assets1.admulti.com
+
+192.168.0.0    miniload.org
+192.168.0.0    www.miniload.org
