@@ -17,6 +17,53 @@
 #       38.25.63.10     x.acme.com              # ÛÁÂÎ ÍÎËÂÌÚ‡ x
 
 127.0.0.1       localhost
+127.0.0.1       myadmin.org
+127.0.0.1       www.myadmin.org
+127.0.0.1       pistonkandidatu.org.ua.loc
+127.0.0.1       www.pistonkandidatu.org.ua.loc
+127.0.0.1       remotehelp.pp.ua.loc
+127.0.0.1       www.remotehelp.pp.ua.loc
+127.0.0.1       openbsd.loc
+127.0.0.1       www.openbsd.loc
+127.0.0.1       blogovest.kiev.ua.loc
+127.0.0.1       www.blogovest.kiev.ua.loc
+127.0.0.1       artdesign.pp.ua.loc
+127.0.0.1       www.artdesign.pp.ua.loc
+
+
+127.0.0.1       mpa.one.microsoft.com
+127.0.0.1       www.mpa.one.microsoft.com
+
+#127.0.0.1       pistonkandidatu.tk
+#127.0.0.1       www.pistonkandidatu.tk
+
+127.0.0.1       smartposter.ru
+127.0.0.1       www.smartposter.ru
+127.0.0.1       bspdev.com
+127.0.0.1       www.bspdev.com
+127.0.0.1       _www.bspdev.com
+127.0.0.1       _www.smartposter.ru
+127.0.0.1       _www.bspdev.ru
+127.0.0.1       _http://www.bspdev.ru/
+127.0.0.1       _http://www.smartposter.ru/
+127.0.0.1       bspdev.ru
+127.0.0.1       www.bspdev.ru
+
+127.0.0.1       cyberspacehq.com
+127.0.0.1       www.cyberspacehq.com
+127.0.0.1       cyberhq.com
+127.0.0.1       www.cyberhq.com
+
+
+# Main virtual host in VMware
+192.168.231.131       mysite.com
+192.168.231.131       www.mysite.com
+
+192.168.231.131       remoteshamans.com
+192.168.231.131       www.remoteshamans.com
+
+192.168.0.0       safebrowsing.clients.google.com www.safebrowsing.clients.google.com
+
 
 # ----------------------------------------------------------------------
 # ‘¿…À œ–≈ƒÕ¿«Õ¿◊≈ÕÕ€… ƒÀﬂ ¡ÀŒÕ»–Œ¬ » ¡¿ÕÕ≈–Õ€’, –≈ À¿ÃÕ€’ —≈“≈… 
@@ -10304,33 +10351,6 @@
 192.168.0.0    alhimik.com
 192.168.0.0    alialia.it
 192.168.0.0    aliasshow.com
-192.168.0.0    alibaba.com
-192.168.0.0    alibabanet.net
-192.168.0.0    alibabaslots.com
-192.168.0.0    alibuba.com
-192.168.0.0    alice.it
-192.168.0.0    alicenet.com
-192.168.0.0    alienicons.com
-192.168.0.0    alimentiveness.net
-192.168.0.0    aliotalia.it
-192.168.0.0    alirtalia.it
-192.168.0.0    alitaia.it
-192.168.0.0    alitaklia.it
-192.168.0.0    alitala.it
-192.168.0.0    alitali.it
-192.168.0.0    alitaliaq.it
-192.168.0.0    alitalias.it
-192.168.0.0    alitaliaz.it
-192.168.0.0    alitalioa.it
-192.168.0.0    alitalisa.it
-192.168.0.0    alitaliua.it
-192.168.0.0    alitalkia.it
-192.168.0.0    alitaloia.it
-192.168.0.0    alitaluia.it
-192.168.0.0    alitaslia.it
-192.168.0.0    alitlia.it
-192.168.0.0    alitralia.it
-192.168.0.0    alitsalia.it
 192.168.0.0    aliutalia.it
 192.168.0.0    all1count.net
 192.168.0.0    all2save.com
@@ -11418,8 +11438,6 @@
 192.168.0.0    autopartsshopping.com
 192.168.0.0    autoposter.com
 192.168.0.0    autoprivileges.net
-192.168.0.0    autoraskrutka.ru
-192.168.0.0    autoreg.ru
 192.168.0.0    autosearch.cc
 192.168.0.0    autosearcher.com
 192.168.0.0    autoshopper.com
@@ -15327,9 +15345,6 @@
 192.168.0.0    computerrecover.com
 192.168.0.0    computerscanv1.com
 192.168.0.0    computersconnection.com
-192.168.0.0    computershield.com
-192.168.0.0    computerworld.com
-192.168.0.0    computingcentral.com
 192.168.0.0    compwareusa.com
 192.168.0.0    compwoch.ivwbox.de
 192.168.0.0    com-sample.com
@@ -16101,22 +16116,6 @@
 192.168.0.0    daily2mail.com
 192.168.0.0    daily3xlinks.com
 192.168.0.0    daily7-business.net
-192.168.0.0    dailybestclips.com
-192.168.0.0    dailyblogtips.com
-192.168.0.0    dailydeal.news-record.com
-192.168.0.0    dailydeals.savannahnow.com
-192.168.0.0    dailydeals.sfgate.com
-192.168.0.0    dailydealstwincities.com
-192.168.0.0    dailyfreepass.com
-192.168.0.0    daily-gals.com
-192.168.0.0    dailygetoff.com
-192.168.0.0    dailyhugemovs.com
-192.168.0.0    dailykeys.com
-192.168.0.0    dailymaglive.com
-192.168.0.0    dailymagsite.com
-192.168.0.0    dailymail.co.uk
-192.168.0.0    dailymailsite.com
-192.168.0.0    dailymotion.com
 192.168.0.0    dailymp3.com
 192.168.0.0    dailynews17.com
 192.168.0.0    dailypioneer.com
@@ -16790,7 +16789,6 @@
 192.168.0.0    directaclick.com
 192.168.0.0    direct-ad.dk
 192.168.0.0    directads.mcafee.com
-192.168.0.0    directadvert.ru
 192.168.0.0    directcertificates.com
 192.168.0.0    directcoupons.com
 192.168.0.0    directdvdpro.com
@@ -17901,7 +17899,6 @@
 192.168.0.0    ehealthytimes.com
 192.168.0.0    ehg.fedex.com
 192.168.0.0    ehknrruxbehkorv.ru.gg
-192.168.0.0    ehow.com
 192.168.0.0    ehttp.cc
 192.168.0.0    ehxsex7.info
 192.168.0.0    eibg.org
@@ -20978,7 +20975,6 @@
 192.168.0.0    ggsaffiliates.com
 192.168.0.0    gguuoopp.cn
 192.168.0.0    ggww.com
-192.168.0.0    ghacks.net
 192.168.0.0    ghaires.com
 192.168.0.0    ghananewsagency.org
 192.168.0.0    ghance.com
@@ -21739,7 +21735,6 @@
 192.168.0.0    gsm-transfer.com
 192.168.0.0    gsniper.com
 192.168.0.0    gsprating.com
-192.168.0.0    gstatic.com
 192.168.0.0    gszzetta.it
 192.168.0.0    gta-tech.com
 192.168.0.0    gtawarehouse.com
@@ -22202,8 +22197,6 @@
 192.168.0.0    hig.com
 192.168.0.0    highconvert.com
 192.168.0.0    highdefjunkies.com
-192.168.0.0    highdialer.com
-192.168.0.0    highdots.com
 192.168.0.0    higherlevelastrology.com
 192.168.0.0    highmountaintaxi.com
 192.168.0.0    highnets.com
@@ -27172,7 +27165,6 @@
 192.168.0.0    miva.com
 192.168.0.0    mixclick.com
 192.168.0.0    mix-download.com
-192.168.0.0    mixmarket.biz
 192.168.0.0    mixplum.ru
 192.168.0.0    mixpo.com
 192.168.0.0    mixscan4.com
@@ -30117,8 +30109,6 @@
 192.168.0.0    pchotgames.com
 192.168.0.0    pcimagazine.com
 192.168.0.0    pclick.internal.yahoo.com
-192.168.0.0    pcmag.com
-192.168.0.0    pcmag.ru
 192.168.0.0    pcmagzin.ivwbox.de
 192.168.0.0    pcmall.co.za
 192.168.0.0    pcmightymax.net
@@ -30158,8 +30148,6 @@
 192.168.0.0    pcwash.com
 192.168.0.0    pcweek.ru
 192.168.0.0    pcwelt.ivwbox.de
-192.168.0.0    pcwizz.com
-192.168.0.0    pcworld.com
 192.168.0.0    pcworld.idg.com.au
 192.168.0.0    pcxmanual.com
 192.168.0.0    pda.net.ua
@@ -31039,7 +31027,6 @@
 192.168.0.0    positivebeats.com
 192.168.0.0    post.rmbn.ru
 192.168.0.0    postad.swiftadsonline.com
-192.168.0.0    postaffiliatepro.com
 192.168.0.0    postalmanager.com
 192.168.0.0    postana.com
 192.168.0.0    postbank.nl
@@ -38753,7 +38740,6 @@
 192.168.0.0    tybeanie.com
 192.168.0.0    tyiscali.it
 192.168.0.0    tym2c.com
-192.168.0.0    tynt.com
 192.168.0.0    type2find.com
 192.168.0.0    typeintofind.com
 192.168.0.0    typicallyspanish.com
@@ -39991,19 +39977,6 @@
 192.168.0.0    vs20060817.com
 192.168.0.0    vs4entertainment.com
 192.168.0.0    vs4family.com
-192.168.0.0    vsego.ru
-192.168.0.0    vsekino.su
-192.168.0.0    vsem.ru
-192.168.0.0    vsemdeneg.ru
-192.168.0.0    vse-moe.biz
-192.168.0.0    vsemp.ru
-192.168.0.0    vsemtube.ru
-192.168.0.0    vseneveroyatnoprosto.info
-192.168.0.0    vsesumki.com
-192.168.0.0    vsesuper.in
-192.168.0.0    vsetv.com
-192.168.0.0    vsexshop.ru
-192.168.0.0    vshop.ru
 192.168.0.0    vskeylogger.nazwa.pl
 192.168.0.0    vsservers.net
 192.168.0.0    vstaet.net
@@ -40148,7 +40121,6 @@
 192.168.0.0    warnomore.org
 192.168.0.0    warplist.com
 192.168.0.0    warpmail.net
-192.168.0.0    warriorforum.com
 192.168.0.0    warumsingle.com
 192.168.0.0    warzone-themovie.com
 192.168.0.0    wasabisneaker.com
@@ -51774,33 +51746,6 @@
 192.168.0.0    www.alhimik.com
 192.168.0.0    www.alialia.it
 192.168.0.0    www.aliasshow.com
-192.168.0.0    www.alibaba.com
-192.168.0.0    www.alibabanet.net
-192.168.0.0    www.alibabaslots.com
-192.168.0.0    www.alibuba.com
-192.168.0.0    www.alice.it
-192.168.0.0    www.alicenet.com
-192.168.0.0    www.alienicons.com
-192.168.0.0    www.alimentiveness.net
-192.168.0.0    www.aliotalia.it
-192.168.0.0    www.alirtalia.it
-192.168.0.0    www.alitaia.it
-192.168.0.0    www.alitaklia.it
-192.168.0.0    www.alitala.it
-192.168.0.0    www.alitali.it
-192.168.0.0    www.alitaliaq.it
-192.168.0.0    www.alitalias.it
-192.168.0.0    www.alitaliaz.it
-192.168.0.0    www.alitalioa.it
-192.168.0.0    www.alitalisa.it
-192.168.0.0    www.alitaliua.it
-192.168.0.0    www.alitalkia.it
-192.168.0.0    www.alitaloia.it
-192.168.0.0    www.alitaluia.it
-192.168.0.0    www.alitaslia.it
-192.168.0.0    www.alitlia.it
-192.168.0.0    www.alitralia.it
-192.168.0.0    www.alitsalia.it
 192.168.0.0    www.aliutalia.it
 192.168.0.0    www.all1count.net
 192.168.0.0    www.all2save.com
@@ -52874,8 +52819,6 @@
 192.168.0.0    www.autopartsshopping.com
 192.168.0.0    www.autoposter.com
 192.168.0.0    www.autoprivileges.net
-192.168.0.0    www.autoraskrutka.ru
-192.168.0.0    www.autoreg.ru
 192.168.0.0    www.autosearch.cc
 192.168.0.0    www.autosearcher.com
 192.168.0.0    www.autoshopper.com
@@ -56695,9 +56638,6 @@
 192.168.0.0    www.computerrecover.com
 192.168.0.0    www.computerscanv1.com
 192.168.0.0    www.computersconnection.com
-192.168.0.0    www.computershield.com
-192.168.0.0    www.computerworld.com
-192.168.0.0    www.computingcentral.com
 192.168.0.0    www.compwareusa.com
 192.168.0.0    www.compwoch.ivwbox.de
 192.168.0.0    www.com-sample.com
@@ -57443,21 +57383,6 @@
 192.168.0.0    www.daily2mail.com
 192.168.0.0    www.daily3xlinks.com
 192.168.0.0    www.daily7-business.net
-192.168.0.0    www.dailybestclips.com
-192.168.0.0    www.dailyblogtips.com
-192.168.0.0    www.dailydeal.news-record.com
-192.168.0.0    www.dailydeals.savannahnow.com
-192.168.0.0    www.dailydeals.sfgate.com
-192.168.0.0    www.dailydealstwincities.com
-192.168.0.0    www.dailyfreepass.com
-192.168.0.0    www.dailygetoff.com
-192.168.0.0    www.dailyhugemovs.com
-192.168.0.0    www.dailykeys.com
-192.168.0.0    www.dailymaglive.com
-192.168.0.0    www.dailymagsite.com
-192.168.0.0    www.dailymail.co.uk
-192.168.0.0    www.dailymailsite.com
-192.168.0.0    www.dailymotion.com
 192.168.0.0    www.dailymp3.com
 192.168.0.0    www.dailynews17.com
 192.168.0.0    www.dailypioneer.com
@@ -58115,7 +58040,6 @@
 192.168.0.0    www.directaclick.com
 192.168.0.0    www.direct-ad.dk
 192.168.0.0    www.directads.mcafee.com
-192.168.0.0    www.directadvert.ru
 192.168.0.0    www.directcertificates.com
 192.168.0.0    www.directcoupons.com
 192.168.0.0    www.directdvdpro.com
@@ -59118,7 +59042,6 @@
 192.168.0.0    www.ehealthytimes.com
 192.168.0.0    www.ehg.fedex.com
 192.168.0.0    www.ehknrruxbehkorv.ru.gg
-192.168.0.0    www.ehow.com
 192.168.0.0    www.ehttp.cc
 192.168.0.0    www.ehxsex7.info
 192.168.0.0    www.eibg.org
@@ -62065,7 +61988,6 @@
 192.168.0.0    www.ggsaffiliates.com
 192.168.0.0    www.gguuoopp.cn
 192.168.0.0    www.ggww.com
-192.168.0.0    www.ghacks.net
 192.168.0.0    www.ghaires.com
 192.168.0.0    www.ghananewsagency.org
 192.168.0.0    www.ghance.com
@@ -62807,7 +62729,6 @@
 192.168.0.0    www.gsm-transfer.com
 192.168.0.0    www.gsniper.com
 192.168.0.0    www.gsprating.com
-192.168.0.0    www.gstatic.com
 192.168.0.0    www.gszzetta.it
 192.168.0.0    www.gta-tech.com
 192.168.0.0    www.gtawarehouse.com
@@ -63254,8 +63175,6 @@
 192.168.0.0    www.hig.com
 192.168.0.0    www.highconvert.com
 192.168.0.0    www.highdefjunkies.com
-192.168.0.0    www.highdialer.com
-192.168.0.0    www.highdots.com
 192.168.0.0    www.higherlevelastrology.com
 192.168.0.0    www.highmountaintaxi.com
 192.168.0.0    www.highnets.com
@@ -68107,7 +68026,6 @@
 192.168.0.0    www.miva.com
 192.168.0.0    www.mixclick.com
 192.168.0.0    www.mix-download.com
-192.168.0.0    www.mixmarket.biz
 192.168.0.0    www.mixplum.ru
 192.168.0.0    www.mixpo.com
 192.168.0.0    www.mixscan4.com
@@ -70970,8 +70888,6 @@
 192.168.0.0    www.pchotgames.com
 192.168.0.0    www.pcimagazine.com
 192.168.0.0    www.pclick.internal.yahoo.com
-192.168.0.0    www.pcmag.com
-192.168.0.0    www.pcmag.ru
 192.168.0.0    www.pcmagzin.ivwbox.de
 192.168.0.0    www.pcmall.co.za
 192.168.0.0    www.pcmightymax.net
@@ -71010,8 +70926,6 @@
 192.168.0.0    www.pcwash.com
 192.168.0.0    www.pcweek.ru
 192.168.0.0    www.pcwelt.ivwbox.de
-192.168.0.0    www.pcwizz.com
-192.168.0.0    www.pcworld.com
 192.168.0.0    www.pcworld.idg.com.au
 192.168.0.0    www.pcxmanual.com
 192.168.0.0    www.pda.net.ua
@@ -71864,7 +71778,6 @@
 192.168.0.0    www.positivebeats.com
 192.168.0.0    www.post.rmbn.ru
 192.168.0.0    www.postad.swiftadsonline.com
-192.168.0.0    www.postaffiliatepro.com
 192.168.0.0    www.postalmanager.com
 192.168.0.0    www.postana.com
 192.168.0.0    www.postbank.nl
@@ -79333,7 +79246,6 @@
 192.168.0.0    www.tybeanie.com
 192.168.0.0    www.tyiscali.it
 192.168.0.0    www.tym2c.com
-192.168.0.0    www.tynt.com
 192.168.0.0    www.type2find.com
 192.168.0.0    www.typeintofind.com
 192.168.0.0    www.typicallyspanish.com
@@ -80529,19 +80441,6 @@
 192.168.0.0    www.vs20060817.com
 192.168.0.0    www.vs4entertainment.com
 192.168.0.0    www.vs4family.com
-192.168.0.0    www.vsego.ru
-192.168.0.0    www.vsekino.su
-192.168.0.0    www.vsem.ru
-192.168.0.0    www.vsemdeneg.ru
-192.168.0.0    www.vse-moe.biz
-192.168.0.0    www.vsemp.ru
-192.168.0.0    www.vsemtube.ru
-192.168.0.0    www.vseneveroyatnoprosto.info
-192.168.0.0    www.vsesumki.com
-192.168.0.0    www.vsesuper.in
-192.168.0.0    www.vsetv.com
-192.168.0.0    www.vsexshop.ru
-192.168.0.0    www.vshop.ru
 192.168.0.0    www.vskeylogger.nazwa.pl
 192.168.0.0    www.vsservers.net
 192.168.0.0    www.vstaet.net
@@ -80684,7 +80583,6 @@
 192.168.0.0    www.warnomore.org
 192.168.0.0    www.warplist.com
 192.168.0.0    www.warpmail.net
-192.168.0.0    www.warriorforum.com
 192.168.0.0    www.warumsingle.com
 192.168.0.0    www.warzone-themovie.com
 192.168.0.0    www.wasabisneaker.com
@@ -84600,3 +84498,31 @@
 
 192.168.0.0    miniload.org
 192.168.0.0    www.miniload.org
+
+192.168.0.0    admaster.net
+192.168.0.0    www.admaster.net
+192.168.0.0    a1.admaster.net
+192.168.0.0    www.a1.admaster.net
+
+192.168.0.0    smaclick.com
+192.168.0.0    www.smaclick.com
+192.168.0.0    st.ad.smaclick.com
+192.168.0.0    www.st.ad.smaclick.com
+
+192.168.0.0    mixmarket.biz
+192.168.0.0    www.mixmarket.biz
+192.168.0.0    us.mixmarket.biz
+192.168.0.0    www.us.mixmarket.biz
+192.168.0.0    1294945709.us.mixmarket.biz
+192.168.0.0    www.1294945709.us.mixmarket.biz
+
+192.168.0.0    lcads.ru
+192.168.0.0    www.lcads.ru
+192.168.0.0    n.lcads.ru
+192.168.0.0    www.n.lcads.ru
+
+192.168.0.0    directadvert.ru
+192.168.0.0    www.directadvert.ru
+192.168.0.0    code.directadvert.ru
+192.168.0.0    www.code.directadvert.ru
+
