@@ -5,6 +5,6 @@
 Свежая версия файла hosts: https://github.com/remotehelp/hosts
 
 /!\ - Если сайт занесен в этот файл по ошибке, пожалуйста сообщите нам - /!\
-Сайт автора: http://remoteshaman.com/
-E-Mail для связи: remoteshaman.com@gmail.com
+Сайт автора: http://www.remoteshaman.com/
+E-Mail для связи: www.remoteshaman.com@gmail.com
 
