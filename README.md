@@ -62,9 +62,9 @@ Address:	8.8.8.8#53
 
 ## Обратная связь
 
-Если сайт занесен в этот файл по ошибке или Вам известен новый вредоносный ресурс, - пожалуйста сообщите нам!  Для обратной связи лучше всего используйте соответствующие разделы на github-e:
-[Issues]: https://github.com/remotehelp/hosts/issues
-[Pull requests]: https://github.com/remotehelp/hosts/pulls
+Если сайт занесен в этот файл по ошибке или Вам известен новый вредоносный веб-ресурс, - пожалуйста сообщите нам!  Для обратной связи лучше всего используйте соответствующие разделы на github-e:
+* [Issues](https://github.com/remotehelp/hosts/issues)
+* [Pull requests](https://github.com/remotehelp/hosts/pulls)
 
 Либо же:
 * Сайт автора: www.remoteshaman.com | www.remoteshaman.ru | www.itmag.pro
