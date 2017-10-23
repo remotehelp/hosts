@@ -56,7 +56,7 @@ ping: 999.999.999.999: Имя или служба не известны
 $ nslookup bla-bla-blu-ble-blah.com 8.8.8.8
 Server:		8.8.8.8
 Address:	8.8.8.8#53
->
+
 ** server can't find bla-bla-blu-ble-blah.com: NXDOMAIN
 ```
 
