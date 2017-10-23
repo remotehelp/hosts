@@ -11,28 +11,30 @@
 
 Почему именно `999.999.999.999`, а не `127.0.0.0` или `192.168.0.0` или `240.0.0.0`? Всё потому, что разные ОС, как и разные веб-браузеры, могут по разному реагировать на обращения к IP-адресам  из текущих/существующих или зарезервированных сетей (IP-диапазонов), длительное время ожидая соединение, что может тормозить отображение веб-страниц браузером, - или например:
 
-> $ ping 999.999.999.999
-> ping: 999.999.999.999: Имя или служба не известны
-> $ ping 240.0.0.0
-> PING 240.0.0.0 (240.0.0.0) 56(84) bytes of data.
-> ^C
-> --- 240.0.0.0 ping statistics ---
-> 115 packets transmitted, 0 received, 100% packet loss, time 116715ms
->
->
-> $ ping 240.255.255.254
-> PING 240.255.255.254 (240.255.255.254) 56(84) bytes of data.
-> ^C
-> --- 240.255.255.254 ping statistics ---
-> 540 packets transmitted, 0 received, 100% packet loss, time 551917ms
->
->
-> $ ping 127.0.0.0
-> Do you want to ping broadcast? Then -b. If not, check your local firewall rules.
->
->
-> $ ping 999.999.999.999
-> ping: 999.999.999.999: Имя или служба не известны
+```
+$ ping 999.999.999.999
+ping: 999.999.999.999: Имя или служба не известны
+$ ping 240.0.0.0
+PING 240.0.0.0 (240.0.0.0) 56(84) bytes of data.
+^C
+--- 240.0.0.0 ping statistics ---
+115 packets transmitted, 0 received, 100% packet loss, time 116715ms
+
+
+$ ping 240.255.255.254
+PING 240.255.255.254 (240.255.255.254) 56(84) bytes of data.
+^C
+--- 240.255.255.254 ping statistics ---
+540 packets transmitted, 0 received, 100% packet loss, time 551917ms
+
+
+$ ping 127.0.0.0
+Do you want to ping broadcast? Then -b. If not, check your local firewall rules.
+
+
+$ ping 999.999.999.999
+ping: 999.999.999.999: Имя или служба не известны
+```
 
 Именно по-этому более православно будет, когда каждому из вредоносных хостов мы будем присваивать именно `999.999.999.999` вместо `127.0.0.0` или `192.168.0.0` или `240.0.0.0`.
 
@@ -40,8 +42,8 @@
 
 Для использования достаточно заменить системный файл `hosts` в месте его размещения, в зависимости от оиспользуемой ОС, предлагаемым здесь файлом `hosts`, либо перекопировать его содержимое.
 
-* [hosts - Википедия]: https://ru.wikipedia.org/wiki/Hosts
-* [Reserved IP addresses - Wikipedia]: https://en.wikipedia.org/wiki/Reserved_IP_addresses
+* [hosts - Википедия](https://ru.wikipedia.org/wiki/Hosts)
+* [Reserved IP addresses - Wikipedia](https://en.wikipedia.org/wiki/Reserved_IP_addresses)
 
 
 ## Файл `hosts-dead`
@@ -50,12 +52,13 @@
 
 Для массовой проверки хостов используется прога `nslookup` путём проверки наличия в ответе на запрос поля `Name:`, в противном случае `nslookup` возвращает:
 
-> $ nslookup bla-bla-blu-ble-blah.com 8.8.8.8
-> Server:		8.8.8.8
-> Address:	8.8.8.8#53
+```
+$ nslookup bla-bla-blu-ble-blah.com 8.8.8.8
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 >
-> ** server can't find bla-bla-blu-ble-blah.com: NXDOMAIN
-
+** server can't find bla-bla-blu-ble-blah.com: NXDOMAIN
+```
 
 ## Обратная связь
 
